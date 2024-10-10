@@ -9,7 +9,7 @@ const unit_test = async () => {
         console.log('add test1')
         return;
     }
-    8
+    
     //test2
     if (Utils.add(2, 3) === 5) {
         console.log(0)
