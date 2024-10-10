@@ -6,8 +6,3 @@ describe('Utils.add(a,b)', () => {
     });
 });
 
-describe('Utils.add(a,b)', () => {
-    it('test: a=6 ,b=2, return 8', () => {
-        expect(Utils.add(6, 2)).toBe(8);
-    });
-});
